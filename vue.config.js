@@ -5,7 +5,7 @@ function resolve(dir) {
 }
 
 const name = 'Arvin-Web';
-const port = 9527; // dev port
+const port = 8080; // dev port
 
 module.exports = {
   publicPath: '/',

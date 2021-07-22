@@ -34,7 +34,7 @@
     "url-loader": "^2.1.0",
     "vue-loader": "^15.7.1",
     "vue-template-compiler": "^2.6.10",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "eslintConfig": {
     "root": true,
